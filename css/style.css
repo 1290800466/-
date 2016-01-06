@@ -1,0 +1,44 @@
+/*全清*/
+*{margin:0; padding:0; list-style:none; font-family:'微软雅黑'; font-size:16px; color:#555;}
+html,body{width:100%; height:auto;}
+body{background:#dfdfdf;}
+img{max-width:100%;height:auto; margin:0 auto;} 
+/*pic*/
+.banner{width:100%; height:auto; text-align: center;}
+/*文字1*/
+.pc_txt01{width:1160px; margin:0 auto;}
+.pc_txt01 h3{font-size:18px; float:left; color:#444; font-weight:normal;}
+.pc_txt01 p{width:1030px; height:auto; float:right; line-height:26px; margin-bottom:12px;}
+/*文字2*/
+.pc_txt02{width:1160px; margin:0 auto;}
+.pc_txt02 h3{font-size:18px; float:left; color:#444; font-weight:normal;}
+.pc_txt02 p{width:1053px; height:auto; float:right; line-height:26px; margin-bottom:12px;}
+/*文字3*/
+.pc_txt03{width:1160px; margin:0 auto;}
+.pc_txt03 h3{font-size:18px; float:left; color:#444; font-weight:normal;}
+.pc_txt03 p{width:1069px; height:auto; float:right; line-height:26px; margin-bottom:12px;}
+/*文字6*/
+.pc_txt06{width:1160px; margin:0 auto;}
+.pc_txt06 h3{font-size:18px; float:left; color:#444; font-weight:normal;}
+.pc_txt06 p{width:1033px; height:auto; float:right; line-height:26px; margin-bottom:12px;}
+/*文字7*/
+.pc_txt07{width:1160px; margin:0 auto;}
+.pc_txt07 h3{font-size:18px; float:left; color:#444; font-weight:normal;}
+.pc_txt07 p{width:1051px; height:auto; float:right; line-height:26px; margin-bottom:12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
